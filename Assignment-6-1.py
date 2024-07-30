@@ -10,7 +10,6 @@
 ## Problem 1 ##
 #Please write a script which prints out an emoticon: :-)
 
-print(":-)")
 
 
 
