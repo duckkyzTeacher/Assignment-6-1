@@ -5,7 +5,27 @@
 #
 #* You will have written and executed your first Python program
 #* You will know how to use the print command
-#* You will be able to use programming for arithmetic operations
+#* You know how to use arithmetic operations in python
+
+
+
+## Live Demo ##
+# print(yo)
+# print("yo")
+# print('yo')
+# print('"Come right back!", shouted the police officer.')
+#Live Demo:
+# print(8-10)
+# print(8+12*8)
+# print("8+12*8")
+# Show how to comment and why its important
+#print("Hours in a year:")
+# there are 365 days in a year and 24 hours in each day
+#print(365*24)
+#print("Hours in a year:")
+#print(365*24) # 365 days, 24 hours in each day
+
+
 
 ## Problem 1 ##
 #Please write a script which prints out an emoticon: :-)
@@ -40,3 +60,23 @@ print("WALL-E              - 2008")
 #    Gently down the stream.
 #    Merrily, merrily, merrily, merrily,
 #    Life is but a dream.
+
+
+
+## Problem 4 ##
+#Please write a script that prints out:
+# * Something that adds to 7
+# * Something that multiplies to 12
+# * Anything that uses multiple operations in one line
+
+
+## Problem 5 ##
+#Please write a script that prints out:
+# * The number of minutes in a year.
+
+
+## Problem 6 ##
+#Please write a script that prints out:
+# * 3 sentences
+# 	* 2 sentences should quotes from someone (like youre writing dialog for a book)
+
